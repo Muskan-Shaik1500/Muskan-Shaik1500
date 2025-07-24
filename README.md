@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Shaik Muskan!
 
 🎓 Final-year BCA student at Mohan Babu University (MBU)  
 🔍 Passionate about Python, Data Science & Database Systems  
