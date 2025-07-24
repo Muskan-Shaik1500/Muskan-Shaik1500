@@ -24,4 +24,4 @@
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muskan_Shaik-blue)](www.linkedin.com/in/muskanshaik1500)  
-[![Email](https://img.shields.io/badge/Email-your.email@domain.com-red)](mailto:muskanshaik1500@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Muskan_Shaik-red)](mailto:muskanshaik1500@gmail.com)
